@@ -1,2 +1,4 @@
 # RssCrawler
-A python RSS crawler
+A python RSS crawler for Google News
+
+
